@@ -1,0 +1,66 @@
+h1{
+    padding: 20px;
+    background-color: gray;
+    text-align: center;
+}
+header{
+    padding: 20px;
+    background-color: aquamarine;
+    position: static;
+    text-align: center;
+    border-radius: 20px;
+    
+    
+}
+nav ul{
+    list-style: none;
+    background-color: aquamarine;
+    background-position: 15px;
+}
+nav ul li{
+    
+    display: inline;
+    
+}
+nav ul li a{
+    font-weight: bold;
+    text-decoration: none; 
+    position: static;
+ }
+nav ul li{
+    margin: 9px;
+    padding-top: 15px;
+    position: static;
+}
+footer{
+background-color: aquamarine;
+background-position: 15px;
+padding: 15px;
+position: sticky;
+border-bottom: 20px;
+border-radius: 20px;
+}
+ body{
+    margin: 20px;
+    margin-bottom: 20px;
+    margin-right: auto;
+    margin-inline-start: 15px;
+    position: static;
+ }
+ body img{
+    shape-image-threshold: calc(0.5);
+     image-resolution: 200px;
+    position:static;
+ }
+ body textarea{
+    background-color: darkgrey;
+ }
+ 
+ 
+
+    
+    
+
+
+
+
